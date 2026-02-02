@@ -1,1 +1,5 @@
-# wind-data-app
+Requirement :
+
+streamlit
+pandas
+requests
