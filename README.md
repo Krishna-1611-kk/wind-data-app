@@ -1,5 +1,5 @@
 Requirement :
 
-streamlit
-pandas
+streamlit, 
+pandas, 
 requests
